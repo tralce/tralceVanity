@@ -1,0 +1,56 @@
+<Bindings>
+  <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
+    <Category name="|ceb00f1-tralce's Keybinds - Mounts-|r">
+      <Action name="MOUNT_EBONWOLF">
+        <Down>UseCollectible(1174)</Down>
+      </Action>
+      <Action name="MOUNT_DWEMERSPIDER">
+        <Down>UseCollectible(1185)</Down>
+      </Action>
+    </Category>
+    <Category name="|ceb00f1-tralce's Keybinds - Pets-|r">
+      <Action name="PET_THEODOLYTE">
+        <Down>UseCollectible(1232)</Down>
+      </Action>
+      <Action name="PET_DWEMER_SCARAB">
+        <Down>UseCollectible(8551)</Down>
+      </Action>
+    </Category>
+    <Category name="|ceb00f1-tralce's Keybinds - Polymorphs-|r">
+      <Action name="POLY_SKELETON">
+        <Down>UseCollectible(34)</Down>
+      </Action>
+      <Action name="POLY_SCARECROW">
+        <Down>UseCollectible(167)</Down>
+      </Action>
+      <Action name="POLY_PUMPKIN">
+        <Down>UseCollectible(168)</Down>
+      </Action>
+      <Action name="POLY_WEREWOLF">
+        <Down>UseCollectible(176)</Down>
+      </Action>
+      <Action name="POLY_CADAVASSASSIN">
+        <Down>UseCollectible(387)</Down>
+      </Action>
+      <Action name="POLY_WRAITHCROW">
+        <Down>UseCollectible(1388)</Down>
+      </Action>
+      <Action name="POLY_FACTOTUM">
+        <Down>UseCollectible(1480)</Down>
+      </Action>
+      <Action name="IRONATRO">
+        <Down>UseCollectible(9239)</Down>
+      </Action>
+    </Category>
+    <Category name="|ceb00f1-tralce's Keybinds - Other-|r">
+      <Action name="OTHER_HIDEHELM">
+        <Down>UseCollectible(5002)</Down>
+      </Action>
+    </Category>
+    <!--
+      <Action name="">
+        <Down>UseCollectible()</Down>
+      </Action>
+    -->
+  </Layer>
+</Bindings>
