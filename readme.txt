@@ -29,7 +29,7 @@ Other
 [*]Hide your Helm
 [/LIST]
 
-Grab my other addon, [URL="https://www.esoui.com/downloads/info2907-tralcesVanityKeybinds.html"]tralce's Collectible Keybinds[/URL], while you're at it!
+Grab my other addon, [URL="https://www.esoui.com/downloads/info2907-tralcesCollectibleKeybinds-nowwithCompanionsandArmory.html"]tralce's Collectible Keybinds[/URL], while you're at it!
 
 Feel free to recommend more in the comments! Ideally also with the Collectible ID, which you can get by linking your collectible in chat, and copying and pasting the link into your comment.
 
