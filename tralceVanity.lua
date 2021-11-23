@@ -2,10 +2,13 @@ tralceVanity = {
   name = "tralceVanity",
 
   collectibles = {
+    -- Mounts --
     [1174] = "MOUNT_EBONWOLF",
     [1185] = "MOUNT_DWEMERSPIDER",
+    -- Pets --
     [1232] = "PET_THEODOLYTE",
     [8551] = "PET_DWEMER_SCARAB",
+    -- Polymorphs --
     [  34] = "POLY_SKELETON",
     [ 167] = "POLY_SCARECROW",
     [ 168] = "POLY_PUMPKIN",
@@ -14,8 +17,8 @@ tralceVanity = {
     [1388] = "POLY_WRAITHCROW",
     [1480] = "POLY_FACTOTUM",
     [9239] = "POLY_IRONATRO",
+    -- Other --
     [5002] = "OTHER_HIDEHELM"
-
   }
 }
 
