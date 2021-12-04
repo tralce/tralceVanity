@@ -1,5 +1,7 @@
 Ever wanted to swap Costumes, Polymorphs, Mounts, Pets, or more on the fly? Now you can!
 
+Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA
+
 Mounts
 [LIST]
 [*]Dwarven Spider
