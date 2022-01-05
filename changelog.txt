@@ -1,5 +1,8 @@
+v2022-01-05
+Added Costumes.
+
 v2021-11-23
-New version numbering scheme. Clarification of text. Added github repo. 
+New version numbering scheme. Clarification of text. Added github repo.
 
 v1.0
 2021-11-10

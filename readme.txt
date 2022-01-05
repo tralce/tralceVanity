@@ -1,6 +1,17 @@
 Ever wanted to swap Costumes, Polymorphs, Mounts, Pets, or more on the fly? Now you can!
 
-Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA
+Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I really like treasure maps.
+
+Costumes
+[LIST]
+[*]Graht-Climber's Active Wear
+[*]Doeskin and Chamois Woods Wear
+[*]Nordic Bathers Towel
+[*]Egg-Sister Bias-Cut Casual Wear
+[*]Lizardly Four-Fabric Skirt Set
+[*]Timbercrow Wanderer
+[*]Dark Passions Regalia
+[/LIST]
 
 Mounts
 [LIST]

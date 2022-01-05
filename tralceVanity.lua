@@ -2,6 +2,14 @@ tralceVanity = {
   name = "tralceVanity",
 
   collectibles = {
+    -- Costumes --
+    [ 286] = "Cost_GrahtClimbersActiveWear",
+    [ 287] = "Cost_DoeskinChamoisWoodsWear",
+    [ 753] = "Cost_NordicBathersTowel",
+    [1419] = "Cost_EggSisterBiasCutCasualWear",
+    [1421] = "Cost_LizardlyFourFabricSkirtSet",
+    [8043] = "Cost_TimbercrowWanderer",
+    [8044] = "Cost_DarkPassionsRegalia",
     -- Mounts --
     [1174] = "MOUNT_EBONWOLF",
     [1185] = "MOUNT_DWEMERSPIDER",

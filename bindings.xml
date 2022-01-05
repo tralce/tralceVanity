@@ -1,5 +1,28 @@
 <Bindings>
   <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
+    <Category name="|ceb00f1-tralce's Keybinds - Costumes-|r">
+      <Action name="Cost_GrahtClimbersActiveWear">
+        <Down>UseCollectible(286)</Down>
+      </Action>
+      <Action name="Cost_DoeskinChamoisWoodsWear">
+        <Down>UseCollectible(287)</Down>
+      </Action>
+      <Action name="Cost_NordicBathersTowel">
+        <Down>UseCollectible(753)</Down>
+      </Action>
+      <Action name="Cost_EggSisterBiasCutCasualWear">
+        <Down>UseCollectible(1419)</Down>
+      </Action>
+      <Action name="Cost_LizardlyFourFabricSkirtSet">
+        <Down>UseCollectible(1421)</Down>
+      </Action>
+      <Action name="Cost_TimbercrowWanderer">
+        <Down>UseCollectible(8043)</Down>
+      </Action>
+      <Action name="Cost_DarkPassionsRegalia">
+        <Down>UseCollectible(8044)</Down>
+      </Action>
+    </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Mounts-|r">
       <Action name="MOUNT_EBONWOLF">
         <Down>UseCollectible(1174)</Down>
