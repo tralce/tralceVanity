@@ -11,22 +11,37 @@ tralceVanity = {
     [8043] = "Cost_TimbercrowWanderer",
     [8044] = "Cost_DarkPassionsRegalia",
     -- Mounts --
-    [1174] = "MOUNT_EBONWOLF",
-    [1185] = "MOUNT_DWEMERSPIDER",
+    [1174] = "Mount_EbonDwarvenWolf",
+    [1185] = "Mount_DwemerSpider",
+    [8530] = "Mount_BloodrootWildHuntSenche",
+    [9370] = "Mount_NebulousStarBornSteed",
     -- Pets --
-    [1232] = "PET_THEODOLYTE",
-    [8551] = "PET_DWEMER_SCARAB",
+    [1232] = "Pet_DwarvenTheodolite",
+    [8551] = "Pet_DwarvenScarab",
     -- Polymorphs --
-    [  34] = "POLY_SKELETON",
-    [ 167] = "POLY_SCARECROW",
-    [ 168] = "POLY_PUMPKIN",
-    [ 176] = "POLY_WEREWOLF",
-    [ 387] = "POLY_CADAVASSASSIN",
-    [1388] = "POLY_WRAITHCROW",
-    [1480] = "POLY_FACTOTUM",
-    [9239] = "POLY_IRONATRO",
+    [  34] = "Poly_Skeleton",
+    [ 167] = "Poly_ScarecrowSpectre",
+    [ 168] = "Poly_PumpkinSpectre",
+    [ 176] = "Poly_Werewolf",
+    [ 387] = "Poly_CadaverousAssassin",
+    [1388] = "Poly_WraithCrow",
+    [1480] = "Poly_Factotum",
+    [9239] = "Poly_IronAtronach",
+    -- Skins --
+    [5725] = "Skin_Crystalfrost",
+    [5914] = "Skin_MeridianPurified",
+    [5916] = "Skin_ArcticRime",
+    [6272] = "Skin_SunspireIceFire",
+    [7231] = "Skin_MireheartScale",
+    [8065] = "Skin_ReanimatedVampiricThrall",
+    [8125] = "Skin_SlagTownDiver",
+    [8469] = "Skin_DeadlandsScorcher",
+    [8841] = "Skin_VarlaBorn",
+    [8905] = "Skin_HistTsoko",
+    [9405] = "Skin_AstralSheen",
+    [9814] = "Skin_ImpishEpidermis",
     -- Other --
-    [5002] = "OTHER_HIDEHELM"
+    [5002] = "Etc_HideYourHelm"
   }
 }
 

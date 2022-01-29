@@ -24,56 +24,102 @@
       </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Mounts-|r">
-      <Action name="MOUNT_EBONWOLF">
+      <Action name="Mount_EbonDwarvenWolf">
         <Down>UseCollectible(1174)</Down>
       </Action>
-      <Action name="MOUNT_DWEMERSPIDER">
+      <Action name="Mount_DwemerSpider">
         <Down>UseCollectible(1185)</Down>
+      </Action>
+      <Action name="Mount_BloodrootWildHuntSenche">
+        <Down>UseCollectible(8530)</Down>
+      </Action>
+      <Action name="Mount_NebulousStarBornSteed">
+        <Down>UseCollectible(9370)</Down>
       </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Pets-|r">
-      <Action name="PET_THEODOLYTE">
+      <Action name="Pet_DwarvenTheodolite">
         <Down>UseCollectible(1232)</Down>
       </Action>
-      <Action name="PET_DWEMER_SCARAB">
+      <Action name="Pet_DwarvenScarab">
         <Down>UseCollectible(8551)</Down>
       </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Polymorphs-|r">
-      <Action name="POLY_SKELETON">
+      <Action name="Poly_Skeleton">
         <Down>UseCollectible(34)</Down>
       </Action>
-      <Action name="POLY_SCARECROW">
+      <Action name="Poly_ScarecrowSpectre">
         <Down>UseCollectible(167)</Down>
       </Action>
-      <Action name="POLY_PUMPKIN">
+      <Action name="Poly_PumpkinSpectre">
         <Down>UseCollectible(168)</Down>
       </Action>
-      <Action name="POLY_WEREWOLF">
+      <Action name="Poly_Werewolf">
         <Down>UseCollectible(176)</Down>
       </Action>
-      <Action name="POLY_CADAVASSASSIN">
+      <Action name="Poly_CadaverousAssassin">
         <Down>UseCollectible(387)</Down>
       </Action>
-      <Action name="POLY_WRAITHCROW">
+      <Action name="Poly_WraithCrow">
         <Down>UseCollectible(1388)</Down>
       </Action>
-      <Action name="POLY_FACTOTUM">
+      <Action name="Poly_Factotum">
         <Down>UseCollectible(1480)</Down>
       </Action>
-      <Action name="IRONATRO">
+      <Action name="Poly_IronAtronach">
         <Down>UseCollectible(9239)</Down>
       </Action>
     </Category>
+    <Category name="|ceb00f1-tralce's Keybinds - Skins-|r">
+      <Action name="Skin_Crystalfrost">
+        <Down>UseCollectible(5725)</Down>
+      </Action>
+      <Action name="Skin_MeridianPurified">
+        <Down>UseCollectible(5914)</Down>
+      </Action>
+      <Action name="Skin_ArcticRime">
+        <Down>UseCollectible(5916)</Down>
+      </Action>
+      <Action name="Skin_SunspireIceFire">
+        <Down>UseCollectible(6272)</Down>
+      </Action>
+      <Action name="Skin_MireheartScale">
+        <Down>UseCollectible(7231)</Down>
+      </Action>
+      <Action name="Skin_ReanimatedVampiricThrall">
+        <Down>UseCollectible(8065)</Down>
+      </Action>
+      <Action name="Skin_SlagTownDiver">
+        <Down>UseCollectible(8125)</Down>
+      </Action>
+      <Action name="Skin_DeadlandsScorcher">
+        <Down>UseCollectible(8469)</Down>
+      </Action>
+      <Action name="Skin_VarlaBorn">
+        <Down>UseCollectible(8841)</Down>
+      </Action>
+      <Action name="Skin_HistTsoko">
+        <Down>UseCollectible(8905)</Down>
+      </Action>
+      <Action name="Skin_AstralSheen">
+        <Down>UseCollectible(9405)</Down>
+      </Action>
+      <Action name="Skin_ImpishEpidermis">
+        <Down>UseCollectible(9814)</Down>
+      </Action>
+    </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Other-|r">
-      <Action name="OTHER_HIDEHELM">
+      <Action name="Etc_HideYourHelm">
         <Down>UseCollectible(5002)</Down>
       </Action>
     </Category>
     <!--
+    <Category name="|ceb00f1-tralce's Keybinds - -|r">
       <Action name="">
         <Down>UseCollectible()</Down>
       </Action>
+    </Category>
     -->
   </Layer>
 </Bindings>

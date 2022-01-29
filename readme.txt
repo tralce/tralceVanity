@@ -15,8 +15,10 @@ Costumes
 
 Mounts
 [LIST]
+[*]Bloodroot Wild Hunt Senche
 [*]Dwarven Spider
 [*]Ebon Dwarven Wolf
+[*]Nebulous Star-Born Steed
 [/LIST]
 
 Pets
@@ -35,6 +37,22 @@ Polymorphs
 [*]Factotum
 [*]Skeleton
 [*]Cadaverous Assassin
+[/LIST]
+
+Skins
+[LIST]
+[*]Arctic Rime
+[*]Astral Sheen
+[*]Crystalfrost
+[*]Deadlands Scorcher
+[*]Hist Tsoko
+[*]Impish Epidermis
+[*]Meridian Purified
+[*]Mireheart Scale
+[*]Reanimated Vampiric Thrall
+[*]Slag Town Diver
+[*]Sunspire Ice-Fire
+[*]Varla Born
 [/LIST]
 
 Other
