@@ -1,4 +1,4 @@
-Ever wanted to swap Costumes, Polymorphs, Mounts, Pets, Skins, or more on the fly? Now you can!
+Ever wanted to swap Costumes, Polymorphs, Mounts, Pets, or more on the fly? Now you can!
 
 Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I really like treasure maps.
 
