@@ -2,6 +2,8 @@ Ever wanted to swap Costumes, Polymorphs, Mounts, Pets, or more on the fly? Now 
 
 Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I really like treasure maps.
 
+[COLOR="Red"][B]When you unlock a collectible, you must /reloadui or re-log before a bind will appear![/B][/COLOR]
+
 Costumes
 [LIST]
 [*]Graht-Climber's Active Wear
