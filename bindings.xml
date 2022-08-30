@@ -37,6 +37,32 @@
         <Down>UseCollectible(9370)</Down>
       </Action>
     </Category>
+    <Category name="|ceb00f1-tralce's Keybinds - Personalities-|r">
+      <Action name="Pers_Drunk">
+        <Down>UseCollectible(368)</Down>
+      </Action>
+      <Action name="Pers_Commander">
+        <Down>UseCollectible(604)</Down>
+      </Action>
+      <Action name="Pers_Jester">
+        <Down>UseCollectible(773)</Down>
+      </Action>
+      <Action name="Pers_DeadlandsFirewalker">
+        <Down>UseCollectible(774)</Down>
+      </Action>
+      <Action name="Pers_BrassyAssassin">
+        <Down>UseCollectible(1192)</Down>
+      </Action>
+      <Action name="Pers_TreasureHunter">
+        <Down>UseCollectible(5884)</Down>
+      </Action>
+      <Action name="Pers_Swashbuckler">
+        <Down>UseCollectible(6927)</Down>
+      </Action>
+      <Action name="Pers_Minstrel">
+        <Down>UseCollectible(8080)</Down>
+      </Action>
+    </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Pets-|r">
       <Action name="Pet_DwarvenTheodolite">
         <Down>UseCollectible(1232)</Down>

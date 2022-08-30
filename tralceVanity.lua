@@ -15,6 +15,15 @@ tralceVanity = {
     [1185] = "Mount_DwemerSpider",
     [8530] = "Mount_BloodrootWildHuntSenche",
     [9370] = "Mount_NebulousStarBornSteed",
+    -- Personalities --
+    [ 368] = "Pers_Drunk",
+    [ 604] = "Pers_Commander",
+    [ 773] = "Pers_Jester",
+    [ 774] = "Pers_DeadlandsFirewalker",
+    [1192] = "Pers_BrassyAssassin",
+    [5884] = "Pers_TreasureHunter",
+    [6927] = "Pers_Swashbuckler",
+    [8080] = "Pers_Minstrel",
     -- Pets --
     [1232] = "Pet_DwarvenTheodolite",
     [8551] = "Pet_DwarvenScarab",

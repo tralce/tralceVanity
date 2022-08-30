@@ -23,6 +23,18 @@ Mounts
 [*]Nebulous Star-Born Steed
 [/LIST]
 
+Personalities
+[LIST]
+[*]Brassy Assassin
+[*]Commander
+[*]Deadlands Firewalker
+[*]Drunk
+[*]Jester
+[*]Minstrel
+[*]Swashbuckler
+[*]Treasure Hunter
+[/LIST]
+
 Pets
 [LIST]
 [*]Dwarven Scarab
