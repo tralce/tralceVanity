@@ -23,6 +23,19 @@ Mounts
 [*]Nebulous Star-Born Steed
 [/LIST]
 
+Multi-Rider Mounts
+[LIST]
+[*]Duo-Dynamo Argent Spider
+[*]Duo-Dynamo Burnished Spider
+[*]Duo-Dynamo Dwarven Spider
+[*]Grand Pillion Draft Horse
+[*]Hew's Bane Pillion Palfrey
+[*]Manelord Nightmare Senche
+[*]Mara's Pledge Mare
+[*]Skingrad Pillion Courser
+[*]Wayrest Vanner Pillion Steed
+[/LIST]
+
 Personalities
 [LIST]
 [*]Brassy Assassin

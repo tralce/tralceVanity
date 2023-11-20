@@ -140,6 +140,35 @@
         <Down>UseCollectible(5002)</Down>
       </Action>
     </Category>
+    <Category name="|ceb00f1-tralce's Keybinds - Multi-Rider Mounts-|r">
+      <Action name="MR_Senche1">
+        <Down>UseCollectible(4713)</Down>
+      </Action>
+      <Action name="MR_Spider1">
+        <Down>UseCollectible(6972)</Down>
+      </Action>
+      <Action name="MR_Spider3">
+        <Down>UseCollectible(8379)</Down>
+      </Action>
+      <Action name="MR_Spider2">
+        <Down>UseCollectible(8512)</Down>
+      </Action>
+      <Action name="MR_Horse1">
+        <Down>UseCollectible(6576)</Down>
+      </Action>
+      <Action name="MR_Horse5">
+        <Down>UseCollectible(10254)</Down>
+      </Action>
+      <Action name="MR_Horse4">
+        <Down>UseCollectible(10384)</Down>
+      </Action>
+      <Action name="MR_Horse3">
+        <Down>UseCollectible(10586)</Down>
+      </Action>
+      <Action name="MR_Horse2">
+        <Down>UseCollectible(10708)</Down>
+      </Action>
+    </Category>
     <!--
     <Category name="|ceb00f1-tralce's Keybinds - -|r">
       <Action name="">

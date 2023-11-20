@@ -15,6 +15,16 @@ tralceVanity = {
     [1185] = "Mount_DwemerSpider",
     [8530] = "Mount_BloodrootWildHuntSenche",
     [9370] = "Mount_NebulousStarBornSteed",
+    -- Multi-Rider Mounts --
+    [ 4713] = "MR_Senche1",
+    [ 6972] = "MR_Spider1",
+    [ 8379] = "MR_Spider3",
+    [ 8512] = "MR_Spider2",
+    [ 9576] = "MR_Horse1",
+    [10254] = "MR_Horse5",
+    [10384] = "MR_Horse4",
+    [10586] = "MR_Horse3",
+    [10708] = "MR_Horse2",
     -- Personalities --
     [ 368] = "Pers_Drunk",
     [ 604] = "Pers_Commander",
