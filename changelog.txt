@@ -1,3 +1,6 @@
+v2023-12-04
+Added small notifications when switching mounts.
+
 v2023-11-20
 API update, and added 9 multi-rider mounts.
 

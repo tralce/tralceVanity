@@ -25,16 +25,16 @@
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Mounts-|r">
       <Action name="Mount_EbonDwarvenWolf">
-        <Down>UseCollectible(1174)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(1174)</Down>
       </Action>
       <Action name="Mount_DwemerSpider">
-        <Down>UseCollectible(1185)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(1185)</Down>
       </Action>
       <Action name="Mount_BloodrootWildHuntSenche">
-        <Down>UseCollectible(8530)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(8530)</Down>
       </Action>
       <Action name="Mount_NebulousStarBornSteed">
-        <Down>UseCollectible(9370)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(9370)</Down>
       </Action>
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Personalities-|r">
@@ -142,31 +142,31 @@
     </Category>
     <Category name="|ceb00f1-tralce's Keybinds - Multi-Rider Mounts-|r">
       <Action name="MR_Senche1">
-        <Down>UseCollectible(4713)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(4713)</Down>
       </Action>
       <Action name="MR_Spider1">
-        <Down>UseCollectible(6972)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(6972)</Down>
       </Action>
       <Action name="MR_Spider3">
-        <Down>UseCollectible(8379)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(8379)</Down>
       </Action>
       <Action name="MR_Spider2">
-        <Down>UseCollectible(8512)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(8512)</Down>
       </Action>
       <Action name="MR_Horse1">
-        <Down>UseCollectible(6576)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(6576)</Down>
       </Action>
       <Action name="MR_Horse5">
-        <Down>UseCollectible(10254)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(10254)</Down>
       </Action>
       <Action name="MR_Horse4">
-        <Down>UseCollectible(10384)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(10384)</Down>
       </Action>
       <Action name="MR_Horse3">
-        <Down>UseCollectible(10586)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(10586)</Down>
       </Action>
       <Action name="MR_Horse2">
-        <Down>UseCollectible(10708)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(10708)</Down>
       </Action>
     </Category>
     <!--

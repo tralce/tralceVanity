@@ -84,5 +84,11 @@ local function OnAddOnLoaded( eventCode, addonName )
   end
 end
 
+function tralceVanity.NotifyAndUseCollectible(collectibleID)
+  local collectibleName = GetCollectibleInfo(collectibleID)
+  df("|cff0055Equipping " .. collectibleName .. "...")
+  UseCollectible(collectibleID)
+end
+
 EVENT_MANAGER:RegisterForEvent(tralceVanity.name, EVENT_ADD_ON_LOADED, OnAddOnLoaded)
 

@@ -4,6 +4,8 @@ Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I reall
 
 [COLOR="Red"][B]When you unlock a collectible, you must /reloadui or re-log before a bind will appear![/B][/COLOR]
 
+Now includes inoffensive notifications when switching mounts.
+
 Costumes
 [LIST]
 [*]Graht-Climber's Active Wear
