@@ -1,6 +1,6 @@
 <Bindings>
   <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
-    <Category name="|ceb00f1-tralce's Keybinds - Costumes-|r">
+    <Category name="|cff0055-tralce's Keybinds - Costumes-|r">
       <Action name="Cost_GrahtClimbersActiveWear">
         <Down>UseCollectible(286)</Down>
       </Action>
@@ -23,7 +23,7 @@
         <Down>UseCollectible(8044)</Down>
       </Action>
     </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - Mementos-|r">
+    <Category name="|cff0055-tralce's Keybinds - Mementos-|r">
       <Action name="Meme_BlackFeatherCourtWhistle">
         <Down>UseCollectible(335)</Down>
       </Action>
@@ -154,7 +154,7 @@
         <Down>UseCollectible(9862)</Down>
       </Action>
     </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - Mounts-|r">
+    <Category name="|cff0055-tralce's Keybinds - Mounts-|r">
       <Action name="Mount_EbonDwarvenWolf">
         <Down>tralceVanity.NotifyAndUseCollectible(1174)</Down>
       </Action>
@@ -168,7 +168,7 @@
         <Down>tralceVanity.NotifyAndUseCollectible(9370)</Down>
       </Action>
     </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - Personalities-|r">
+    <Category name="|cff0055-tralce's Keybinds - Personalities-|r">
       <Action name="Pers_Drunk">
         <Down>UseCollectible(368)</Down>
       </Action>
@@ -194,7 +194,7 @@
         <Down>UseCollectible(8080)</Down>
       </Action>
     </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - Pets-|r">
+    <Category name="|cff0055-tralce's Keybinds - Pets-|r">
       <Action name="Pet_DwarvenTheodolite">
         <Down>UseCollectible(1232)</Down>
       </Action>
@@ -202,7 +202,7 @@
         <Down>UseCollectible(8551)</Down>
       </Action>
     </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - Polymorphs-|r">
+    <Category name="|cff0055-tralce's Keybinds - Polymorphs-|r">
       <Action name="Poly_Skeleton">
         <Down>UseCollectible(34)</Down>
       </Action>
@@ -228,7 +228,7 @@
         <Down>UseCollectible(9239)</Down>
       </Action>
     </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - Skins-|r">
+    <Category name="|cff0055-tralce's Keybinds - Skins-|r">
       <Action name="Skin_Crystalfrost">
         <Down>UseCollectible(5725)</Down>
       </Action>
@@ -266,12 +266,12 @@
         <Down>UseCollectible(9814)</Down>
       </Action>
     </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - Other-|r">
+    <Category name="|cff0055-tralce's Keybinds - Other-|r">
       <Action name="Etc_HideYourHelm">
         <Down>UseCollectible(5002)</Down>
       </Action>
     </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - Multi-Rider Mounts-|r">
+    <Category name="|cff0055-tralce's Keybinds - Multi-Rider Mounts-|r">
       <Action name="MR_Senche1">
         <Down>tralceVanity.NotifyAndUseCollectible(4713)</Down>
       </Action>
@@ -300,7 +300,7 @@
         <Down>tralceVanity.NotifyAndUseCollectible(10708)</Down>
       </Action>
     </Category>
-    <Category name="|ceb00f1-tralce's Keybinds - XP-|r">
+    <Category name="|cff0055-tralce's Keybinds - XP-|r">
       <Action name="XP_WitchWhistle">
         <Down>UseCollectible(479)</Down>
       </Action>
@@ -315,7 +315,7 @@
       </Action>
     </Category>
     <!--
-    <Category name="|ceb00f1-tralce's Keybinds - -|r">
+    <Category name="|cff0055-tralce's Keybinds - -|r">
       <Action name="">
         <Down>UseCollectible()</Down>
       </Action>
