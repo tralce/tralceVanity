@@ -1,5 +1,6 @@
 v2024-03-08
 Moved a lot of mementos from tralce's Collectible Keybinds here. API increment. Added a ton of mementos and personalities, credit to kn1ne.
+Note: If you bound something that was moved to this addon, just install this addon and the binds should remain intact!
 
 v2023-12-04
 Added small notifications when switching mounts.
