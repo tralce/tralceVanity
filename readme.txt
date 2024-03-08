@@ -1,4 +1,4 @@
-Ever wanted to swap Costumes, Polymorphs, Mounts, Pets, or more on the fly? Now you can!
+Ever wanted to summon Mementos, swap Costumes, Polymorphs, Mounts, Pets, or more on the fly? Now you can!
 
 Questions? Comments? Donations? Hit me up in-game! @tralce, PC/NA. Hint: I really like treasure maps.
 
@@ -27,19 +27,32 @@ Mementos
 [*]Bonesnap Binding Stone
 [*]Campfire Kit
 [*]Clockwork Obscuros
+[*]Crow Calling
 [*]Daedric Unwarding Amulet
 [*]Dragon Flight Illusion Gem
 [*]Dragonhorn Curio
 [*]Dreamer's Chime
+[*]Fargrave Occult Curio
 [*]Fetish Of Anger
+[*]Fiery Orb
+[*]Fighter's Guild Blade Barrel
 [*]Full-Scale Golden Anvil Replica
+[*]Fungimancer's Prayer-Beads
+[*]Ghastly Visitation
+[*]Ghost Haven Caravel
+[*]Ghost Lantern
+[*]Glanir's Smoke Bomb
+[*]Gryphon Feather Talisman
 [*]Illusory Coin
 [*]Impartial Decision Coin
+[*]Incarnate Illusion Gem
 [*]Inferno Cleats
 [*]Juggler's Knives
 [*]Kick Ball
 [*]Lodorr's Crown
 [*]Malacath's Wrathful Flame
+[*]Mariner's Nimbus Stone
+[*]Meln's Soul Gem
 [*]Mezha-dro's Sealing Amulet
 [*]Miniature Dwarven Sun
 [*]Mostly Stable Juggling Potions
@@ -47,10 +60,20 @@ Mementos
 [*]Nanwen Sword
 [*]Neramo's Lightning Stick
 [*]Nirnroot Wine
+[*]Psijic Celestial Orb
 [*]Questionable Meat Sack
+[*]Rind-Renewing Pumpkin
 [*]Ritual Circle Totem
+[*]Sanguine's Goblet
+[*]Sapiarchic Discorporation Lens
+[*]Scalecaller Forst Shard
+[*]Scalecaller Rune of Levitation
 [*]Sea Sload Dorsal Fin
+[*]Soul Crystals of the Returned
+[*]Storm Atronach Aura
 [*]Storm Atronach Transform
+[*]Swarm of Crows
+[*]Sword Swallower's Blade
 [*]Tempermental Grimoire
 [*]Temporary Candlefly Lantern
 [*]Token Of Root Sunder
@@ -87,14 +110,21 @@ Multi-Rider Mounts
 
 Personalities
 [LIST]
+[*]Assassin
 [*]Brassy Assassin
 [*]Commander
 [*]Deadlands Firewalker
 [*]Drunk
+[*]Duchess
+[*]Heroic
 [*]Jester
 [*]Minstrel
+[*]Passion's Muse
+[*]Scholar
 [*]Swashbuckler
+[*]Thief
 [*]Treasure Hunter
+[*]Zombie
 [/LIST]
 
 Pets
@@ -146,7 +176,7 @@ Other
 
 Grab my other addon, [URL="https://www.esoui.com/downloads/info2907-tralcesCollectibleKeybinds-nowwithCompanionsandArmory.html"]tralce's Collectible Keybinds[/URL], while you're at it!
 
-Feel free to recommend more in the comments! Ideally also with the Collectible ID, which you can get by linking your collectible in chat, and copying and pasting the link into your comment. OR submit a PR on GitHub!
+Feel free to recommend more in the comments! Ideally also with the Collectible ID, which you can get by linking your collectible in chat, and copying and pasting the link into your comment. Better yet, submit a PR on GitHub!
 
 Now includes some code that allows multi-key keybinds (AKA Chording).
 

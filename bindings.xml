@@ -30,6 +30,9 @@
       <Action name="Meme_LodorrsCrown">
         <Down>UseCollectible(337)</Down>
       </Action>
+      <Action name="Meme_SanguinesGoblet">
+        <Down>UseCollectible(338)</Down>
+      </Action>
       <Action name="Meme_QuestionableMeatSack">
         <Down>UseCollectible(342)</Down>
       </Action>
@@ -38,6 +41,9 @@
       </Action>
       <Action name="Meme_NirnrootWine">
         <Down>UseCollectible(344)</Down>
+      </Action>
+      <Action name="Meme_GlanirsSmokeBomb">
+        <Down>UseCollectible(346)</Down>
       </Action>
       <Action name="Meme_FetishOfAnger">
         <Down>UseCollectible(347)</Down>
@@ -63,8 +69,14 @@
       <Action name="Meme_CoinOfIllusoryRiches">
         <Down>UseCollectible(361)</Down>
       </Action>
+      <Action name="Meme_StormAtronachAura">
+        <Down>UseCollectible(594)</Down>
+      </Action>
       <Action name="Meme_StormAtronachTransform">
         <Down>UseCollectible(596)</Down>
+      </Action>
+      <Action name="Meme_SwordSwallowersBlade">
+        <Down>UseCollectible(597)</Down>
       </Action>
       <Action name="Meme_JugglersKnives">
         <Down>UseCollectible(598)</Down>
@@ -81,14 +93,44 @@
       <Action name="Meme_ClockworkObscuros">
         <Down>UseCollectible(1382)</Down>
       </Action>
+      <Action name="Meme_CrowCalling">
+        <Down>UseCollectible(1383)</Down>
+      </Action>
+      <Action name="Meme_SwarmofCrows">
+        <Down>UseCollectible(1384)</Down>
+      </Action>
+      <Action name="Meme_FieryOrb">
+        <Down>UseCollectible(1481)</Down>
+      </Action>
       <Action name="Meme_UmbralProjector">
         <Down>UseCollectible(4663)</Down>
+      </Action>
+      <Action name="Meme_ScalecallerRune">
+        <Down>UseCollectible(4706)</Down>
+      </Action>
+      <Action name="Meme_ScalecallerFrostShard">
+        <Down>UseCollectible(4707)</Down>
       </Action>
       <Action name="Meme_WyrdElementalPlume">
         <Down>UseCollectible(4789)</Down>
       </Action>
+      <Action name="Meme_PsijicCelestialOrb">
+        <Down>UseCollectible(5031)</Down>
+      </Action>
+      <Action name="Meme_SapiarchicDiscorporationLens">
+        <Down>UseCollectible(5033)</Down>
+      </Action>
+      <Action name="Meme_GryphonFeatherTalisman">
+        <Down>UseCollectible(5035)</Down>
+      </Action>
       <Action name="Meme_SeaSloadDorsalFin">
         <Down>UseCollectible(5036)</Down>
+      </Action>
+      <Action name="Meme_Rind-RenewingPumpkin">
+        <Down>UseCollectible(5211)</Down>
+      </Action>
+      <Action name="Meme_GhostLantern">
+        <Down>UseCollectible(5212)</Down>
       </Action>
       <Action name="Meme_MurkmireGrave-Stake">
         <Down>UseCollectible(5234)</Down>
@@ -104,6 +146,9 @@
       </Action>
       <Action name="Meme_WallOfLifeBrush">
         <Down>UseCollectible(7225)</Down>
+      </Action>
+      <Action name="Meme_FungimancersPrayerBeads">
+        <Down>UseCollectible(7395)</Down>
       </Action>
       <Action name="Meme_MiniatureDwarvenSun">
         <Down>UseCollectible(7596)</Down>
@@ -150,8 +195,32 @@
       <Action name="Meme_AgonymiumStone">
         <Down>UseCollectible(9591)</Down>
       </Action>
+      <Action name="Meme_IncarnateIllusionGem">
+        <Down>UseCollectible(9719)</Down>
+      </Action>
       <Action name="Meme_AstralAura">
         <Down>UseCollectible(9862)</Down>
+      </Action>
+      <Action name="Meme_MarinersNimbusStone">
+        <Down>UseCollectible(10236)</Down>
+      </Action>
+      <Action name="Meme_FargraveOccultCurio">
+        <Down>UseCollectible(10371)</Down>
+      </Action>
+      <Action name="Meme_GhostHavenCaravel">
+        <Down>UseCollectible(10428)</Down>
+      </Action>
+      <Action name="Meme_SoulCrystalsoftheReturned">
+        <Down>UseCollectible(10652)</Down>
+      </Action>
+      <Action name="Meme_FightersGuildBladeBarrel">
+        <Down>UseCollectible(10658)</Down>
+      </Action>
+      <Action name="Meme_GhastlyVisitation">
+        <Down>UseCollectible(10850)</Down>
+      </Action>
+      <Action name="Meme_MelnsSoulGem">
+        <Down>UseCollectible(11191)</Down>
       </Action>
     </Category>
     <Category name="|cff0055-tralce's Keybinds - Mounts-|r">
@@ -172,8 +241,20 @@
       <Action name="Pers_Drunk">
         <Down>UseCollectible(368)</Down>
       </Action>
+      <Action name="Pers_Heroic">
+        <Down>UseCollectible(373)</Down>
+      </Action>
+      <Action name="Pers_Assassin">
+        <Down>UseCollectible(374)</Down>
+      </Action>
+      <Action name="Pers_Duchess">
+        <Down>UseCollectible(603)</Down>
+      </Action>
       <Action name="Pers_Commander">
         <Down>UseCollectible(604)</Down>
+      </Action>
+      <Action name="Pers_Thief">
+        <Down>UseCollectible(605)</Down>
       </Action>
       <Action name="Pers_Jester">
         <Down>UseCollectible(773)</Down>
@@ -181,8 +262,14 @@
       <Action name="Pers_DeadlandsFirewalker">
         <Down>UseCollectible(774)</Down>
       </Action>
+      <Action name="Pers_Scholar">
+        <Down>UseCollectible(775)</Down>
+      </Action>
       <Action name="Pers_BrassyAssassin">
         <Down>UseCollectible(1192)</Down>
+      </Action>
+      <Action name="Pers_Zombie">
+        <Down>UseCollectible(1386)</Down>
       </Action>
       <Action name="Pers_TreasureHunter">
         <Down>UseCollectible(5884)</Down>
@@ -192,6 +279,9 @@
       </Action>
       <Action name="Pers_Minstrel">
         <Down>UseCollectible(8080)</Down>
+      </Action>
+      <Action name="Pers_PassionsMuse">
+        <Down>UseCollectible(10913)</Down>
       </Action>
     </Category>
     <Category name="|cff0055-tralce's Keybinds - Pets-|r">

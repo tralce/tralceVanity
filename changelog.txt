@@ -1,6 +1,5 @@
-v2024-03-07
-Moved a lot of mementos from tralce's Collectible Keybinds here. API
-increment.
+v2024-03-08
+Moved a lot of mementos from tralce's Collectible Keybinds here. API increment. Added a ton of mementos and personalities, credit to kn1ne.
 
 v2023-12-04
 Added small notifications when switching mounts.
