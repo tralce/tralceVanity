@@ -77,6 +77,7 @@ tralceVanity = {
     [10658] = "Meme_FightersGuildBladeBarrel",
     [10850] = "Meme_GhastlyVisitation",
     [11191] = "Meme_MelnsSoulGem",
+    [12741] = "Meme_CarvedBone",
     -- Mounts --
     [ 1174] = "Mount_EbonDwarvenWolf",
     [ 1185] = "Mount_DwemerSpider",

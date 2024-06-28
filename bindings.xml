@@ -222,6 +222,9 @@
       <Action name="Meme_MelnsSoulGem">
         <Down>UseCollectible(11191)</Down>
       </Action>
+      <Action name="Meme_CarvedBone">
+        <Down>UseCollectible(12741)</Down>
+      </Action>
     </Category>
     <Category name="|cff0055-tralce's Keybinds - Mounts-|r">
       <Action name="Mount_EbonDwarvenWolf">

@@ -20,6 +20,7 @@ Costumes
 Mementos
 [LIST]
 [*]Agonymium Stone
+[*]Anchorite's Carved Bone
 [*]Antiquarian's Telescope
 [*]Astral Aura Projector
 [*]Battered Bear Trap
