@@ -93,6 +93,7 @@ tralceVanity = {
     [10384] = "MR_Horse4",
     [10586] = "MR_Horse3",
     [10708] = "MR_Horse2",
+    [11887] = "MR_Horse6",
     -- Personalities --
     [  368] = "Pers_Drunk",
     [  373] = "Pers_Heroic",

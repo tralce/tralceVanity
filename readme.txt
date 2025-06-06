@@ -105,6 +105,7 @@ Multi-Rider Mounts
 [*]Hew's Bane Pillion Palfrey
 [*]Manelord Nightmare Senche
 [*]Mara's Pledge Mare
+[*]Nightmare Pillion Courser
 [*]Skingrad Pillion Courser
 [*]Wayrest Vanner Pillion Steed
 [/LIST]

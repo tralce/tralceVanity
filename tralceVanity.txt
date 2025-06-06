@@ -7,7 +7,7 @@
 ## Title: |cff0055tralce|r's Vanity Keybinds
 ## Description: Add keybindings for many Mounts, Pets, Polymorphs, and more.
 ## Author: @tralce and @code65536
-## Version: 2024-06-28
+## Version: 2025-06-06
 ## APIVersion: 101046
 ## OptionalDependsOn: VotansKeybinder
 

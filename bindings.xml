@@ -377,8 +377,11 @@
       <Action name="MR_Spider2">
         <Down>tralceVanity.NotifyAndUseCollectible(8512)</Down>
       </Action>
+      <Action name="MR_Horse6">
+        <Down>tralceVanity.NotifyAndUseCollectible(11887)</Down>
+      </Action>
       <Action name="MR_Horse1">
-        <Down>tralceVanity.NotifyAndUseCollectible(6576)</Down>
+        <Down>tralceVanity.NotifyAndUseCollectible(9576)</Down>
       </Action>
       <Action name="MR_Horse5">
         <Down>tralceVanity.NotifyAndUseCollectible(10254)</Down>

@@ -1,3 +1,6 @@
+2025-06-06
+Fixed a bug, added Nightmare Pillion Courser. Thanks, Morgaloth!
+
 2025-06-03
 API increment
 
